@@ -997,7 +997,7 @@ W.	NNP
 Graae	NNP
 .	.
 
-***	NFP
+***	CD
 
 Bush	NNP
 also	RB
@@ -1931,7 +1931,7 @@ had	VBD
 more	JJR
 than	IN
 80	CD
-"	,
+"	CD
 non-social	JJ
 contacts	NNS
 "	,
@@ -3944,10 +3944,10 @@ in	IN
 recent	JJ
 years	NNS
 ...	:
-[	NN
+[	CD
 because	IN
 of	IN
-]	NN
+]	CD
 the	DT
 impact	NN
 that	IN
@@ -4251,8 +4251,8 @@ earlier	RBR
 this	DT
 year	NN
 acknowledged	VBD
-that	DT
-"	NN
+that	IN
+"	CD
 the	DT
 state	NN
 's	POS
@@ -6106,7 +6106,7 @@ wilt	VBD
 "	VBN
 .	.
 
-http://youtube.com/watch?v=d46_ctqDmI4	CD
+http://youtube.com/watch?v=d46_ctqDmI4	NNS
 
 To	IN
 not	RB
@@ -6451,7 +6451,7 @@ past	JJ
 several	JJ
 months	NNS
 :	:
-"	NN
+"	CD
 To	IN
 hell	NN
 with	IN
@@ -7622,7 +7622,7 @@ wait	VB
 a	DT
 minute	NN
 
-==	SYM
+==	CD
 Why	WRB
 did	VBD
 Bush	NNP
@@ -7680,9 +7680,9 @@ and	CC
 13389	CD
 ,	,
 and	CC
-***	SYM
-Revocation	NNP
-***	SYM
+***	CD
+Revocation	IN
+***	CD
 of	IN
 Executive	NNP
 Order	NNP
