@@ -208,7 +208,7 @@ who's	VBZ
 stated	VBN
 goals	NNS
 include	VBP
-"	''
+"	SYM
 Do	VBP
 n't	RB
 be	VB
@@ -3569,9 +3569,9 @@ Those	DT
 Abused	NNP
 by	IN
 Priests	NNP
-[	''
+[	SYM
 SNAP	NNP
-]	''
+]	SYM
 ,	,
 who	WP
 had	VBD
@@ -15736,9 +15736,9 @@ senate	NN
 campaign	NN
 of	IN
 Winton	NNP
-"	''
+"	SYM
 Red	NNP
-"	''
+"	SYM
 Blount	NNP
 .	.
 
@@ -15933,9 +15933,9 @@ US	NNP
 Senate	NNP
 candidate	NN
 Winton	NNP
-"	''
+"	SYM
 Red	NNP
-"	''
+"	SYM
 Blount	NNP
 .	.
 
@@ -17354,9 +17354,9 @@ only	RB
 a	DT
 few	JJ
 hundred	CD
-"	''
-Afghan	JJ
-Arabs	NNS
+"	SYM
+Afghan	NNP
+Arabs	NNPS
 "	''
 who	WP
 pledged	VBD
@@ -21164,10 +21164,10 @@ know	VBP
 ,	,
 for	IN
 Google	NNP
-to	IN
-"	''
+to	TO
+"	SYM
 Aquire	NNP
-"	''
+"	SYM
 Firefox	NNP
 .	.
 
