@@ -86,9 +86,9 @@ even	RB
 as	RB
 popular	JJ
 as	IN
-Yahoo!	NNP
-and	CC
-AOL	NNP
+Yahoo!	,
+and	NNP
+AOL	MD
 .	.
 
 If	IN
@@ -316,7 +316,7 @@ toolbar	NN
 ,	,
 which	WDT
 ,	,
-as	IN
+as	RB
 noted	VBD
 in	IN
 the	DT
@@ -1141,7 +1141,7 @@ as	IN
 last	JJ
 week	NN
 the	DT
-official	NN
+official	JJ
 line	NN
 stated	VBD
 they	PRP
@@ -1191,7 +1191,7 @@ not	RB
 such	PDT
 a	DT
 player	NN
-that	WDT
+that	IN
 he	PRP
 could	MD
 get	VB
@@ -2056,7 +2056,7 @@ since	IN
 retiring	VBG
 .	.
 
-http://www.disinfo.com/archive/pages/dossier/id334/pg1/	NNP
+http://www.disinfo.com/archive/pages/dossier/id334/pg1/	TO
 
 Last	JJ
 week	NN
@@ -2129,7 +2129,7 @@ Deputy	NNP
 Implicated	NNP
 In	IN
 Church	NNP
-Child	NNP
+Child	NN
 Sex	NN
 Abuse	NN
 
@@ -2494,7 +2494,7 @@ out	IN
 blog	NN
 .	.
 
-hey	UH
+hey	NN
 that	WDT
 's	VBZ
 a	DT
@@ -2636,7 +2636,7 @@ Know	NNP
 How	WRB
 YOU	PRP
 Can	MD
-Live	VB
+Live	JJ
 In	IN
 A	DT
 Beautiful	NNP
@@ -2749,7 +2749,7 @@ end	NN
 
 And	CC
 you	PRP
-search	VBP
+search	NN
 in	IN
 vain	JJ
 to	TO
@@ -3702,8 +3702,8 @@ investigation	NN
 into	IN
 the	DT
 Atlanta	NNP
-Child	NNP
-Murders	NNP
+Child	NN
+Murders	NNS
 :	:
 
 Dekalb	NNP
@@ -3787,7 +3787,7 @@ tools	NNS
 .	.
 
 The	DT
-will	NN
+will	MD
 is	VBZ
 another	DT
 matter	NN
@@ -3823,8 +3823,8 @@ out	IN
 there	EX
 today	NN
 jeff	NN
-....	NNS
-thank	VBP
+....	CC
+thank	VB
 god	NN
 and	CC
 a	DT
@@ -3871,7 +3871,7 @@ southwestern	JJ
 US	NNP
 under	IN
 the	DT
-watchful	JJ
+watchful	NN
 yet	RB
 fairly	RB
 benign	JJ
@@ -4068,7 +4068,7 @@ authorities	NNS
 started	VBD
 to	TO
 crack	VB
-down	RB
+down	RP
 more	RBR
 vigorously	RB
 .	.
@@ -4210,7 +4210,7 @@ able	JJ
 to	TO
 bring	VB
 evil	JJ
-unto	IN
+unto	NN
 the	DT
 earth	NN
 ,	,
@@ -4335,9 +4335,9 @@ no	DT
 tracking	VBG
 mechanism	NN
 in	IN
-place	NN
-"	''
-?!?!?	NN
+place	VB
+"	NN
+?!?!?	)
 
 Never	RB
 mind	NN
@@ -4778,7 +4778,7 @@ all	PDT
 those	DT
 defense	NN
 contractors	NNS
-awash	RB
+awash	NN
 in	IN
 all	PDT
 that	DT
@@ -5396,7 +5396,7 @@ Bush	NNP
 successfully	RB
 makes	VBZ
 Satan	NNP
-look	VBP
+look	VB
 good	JJ
 in	IN
 comparison	NN
@@ -5408,7 +5408,7 @@ like	IN
 that	DT
 .	.
 
-http://www.laweekly.com/general/features/satan-loves-you/13454/	NNP
+http://www.laweekly.com/general/features/satan-loves-you/13454/	TO
 
 "	''
 Another	DT
@@ -5617,7 +5617,7 @@ hates	VBZ
 a	DT
 void	NN
 .	.
-:)	NNP
+:)	EX
 
 Richard	NNP
 ,	,
@@ -5689,7 +5689,7 @@ death	NN
 metal	NN
 paradigm	NN
 ,	,
-er	UH
+er	NN
 ...	:
 morality	NN
 .	.
@@ -5708,8 +5708,8 @@ love	VBP
 thy	JJ
 neighbor	NN
 ...	:
-hell	UH
-no	UH
+hell	NN
+no	RB
 ,	,
 kill	VB
 thy	JJ
@@ -5719,8 +5719,8 @@ now	RB
 that	WDT
 is	VBZ
 REAL	NNP
-MORALITY	NNP
-?????	NNP
+MORALITY	WP
+?????	VBG
 )	)
 
 So	RB
@@ -6520,10 +6520,10 @@ moment	NN
 
 And	CC
 for	IN
-'	POS
+'	''
 Smartwolf	NNP
 '	POS
-above	JJ
+above	RB
 ,	,
 think	VBP
 about	IN
@@ -6795,7 +6795,7 @@ a	DT
 parallel	JJ
 show	NN
 of	IN
-'	POS
+'	''
 Aryan	NNP
 '	POS
 art	NN
@@ -7258,10 +7258,10 @@ I	PRP
 am	VBP
 ,	,
 therefore	RB
-I	PRP
-think	VBP
-"	''
-:)	NNS
+I	CD
+think	VB
+"	NNPS
+:)	EX
 
 Reporting	NNP
 from	IN
@@ -7617,7 +7617,7 @@ thing	NN
 like	IN
 that	DT
 ....	NN
-hey	UH
+hey	NN
 wait	VB
 a	DT
 minute	NN
@@ -7719,9 +7719,9 @@ that	WDT
 's	VBZ
 for	IN
 damn	RB
-sure	JJ
+sure	RB
 .	.
-:)	NNP
+:)	VBN
 
 I	PRP
 'm	VBP
@@ -7913,7 +7913,7 @@ of	IN
 poet	NN
 Charles	NNP
 Baudelaire	NNP
-as	IN
+as	RB
 well	RB
 ?	.
 
@@ -7988,7 +7988,7 @@ get	VB
 hung	VBN
 up	RP
 on	IN
-'	POS
+'	''
 Christians	NNS
 '	POS
 ,	,
@@ -9171,7 +9171,7 @@ fact	NN
 that	IN
 the	DT
 political	JJ
-will	NN
+will	MD
 to	TO
 end	VB
 the	DT
@@ -9317,8 +9317,8 @@ hottest	JJS
 item	NN
 on	IN
 Christmas	NNP
-wish	NN
-lists	VBZ
+wish	VBP
+lists	NNS
 this	DT
 year	NN
 is	VBZ
@@ -9679,7 +9679,7 @@ Deja	NNP
 vu	NN
 .	.
 
-Arial	JJ
+Arial	NNP
 photos	NNS
 of	IN
 the	DT
@@ -9717,8 +9717,8 @@ sooner	RBR
 or	CC
 later	RBR
 ,	,
-that	WDT
-wolf	PRP
+that	DT
+wolf	NN
 will	MD
 probably	RB
 get	VB
@@ -9771,7 +9771,7 @@ What	WP
 do	VBP
 the	DT
 new	JJ
-al	JJ
+al	NN
 -	HYPH
 Qaeda	NNP
 videotape	NN
@@ -10744,8 +10744,8 @@ ball	NN
 .	.
 
 Angry	NNP
-crowds	NNS
-chanted	VBD
+crowds	VBZ
+chanted	VBN
 anti-American	JJ
 slogans	NNS
 in	IN
@@ -11195,7 +11195,7 @@ Iraq	NNP
 Ash	NNP
 -	HYPH
 Sharq	NNP
-al	JJ
+al	NN
 -	HYPH
 Awsat	NN
 reports	NNS
@@ -11572,7 +11572,7 @@ Department	NNP
 of	IN
 Defense	NNP
 only	RB
-know	VBP
+know	VB
 how	WRB
 to	TO
 blow	VB
@@ -11637,7 +11637,7 @@ few	JJ
 experienced	JJ
 State	NNP
 Department	NNP
-Arabists	NNP
+Arabists	VBZ
 been	VBN
 allowed	VBN
 in	IN
@@ -11911,7 +11911,7 @@ But	CC
 sometimes	RB
 ,	,
 of	IN
-course	RB
+course	NN
 ,	,
 when	WRB
 Z	NNP
@@ -12255,7 +12255,7 @@ the	DT
 American	JJ
 public	NN
 gradually	RB
-wearies	NNS
+wearies	VBZ
 of	IN
 the	DT
 Iraq	NNP
@@ -12372,7 +12372,7 @@ The	DT
 derailing	VBG
 of	IN
 the	DT
-Oslo	NN
+Oslo	NNP
 peace	NN
 process	NN
 by	IN
@@ -12954,7 +12954,7 @@ sales	NNS
 in	IN
 the	DT
 future	NN
-that	WDT
+that	IN
 they	PRP
 will	MD
 be	VB
@@ -13378,10 +13378,10 @@ at	IN
 :	:
 3:29	CD
 p.m.	NN
-EST	NNP
+EST	NN
 (	(
 2029	CD
-GMT	NNP
+GMT	NN
 )	)
 
 WASHINGTON	NNP
@@ -13449,7 +13449,7 @@ in	IN
 an	DT
 international	JJ
 affairs	NNS
-pop	VBP
+pop	NN
 quiz	NN
 posed	VBN
 by	IN
@@ -14221,7 +14221,7 @@ active	JJ
 leader	NN
 to	TO
 help	VB
-resolve	NN
+resolve	VB
 conflicts	NNS
 ,	,
 from	IN
@@ -14676,9 +14676,9 @@ terrorists	NNS
 gunning	VBG
 for	IN
 the	DT
-United	NNP
-States	NNPS
-??	NNP
+United	VBN
+States	NNP
+??	JJ
 )	)
 
 The	DT
@@ -16765,7 +16765,7 @@ of	IN
 as	IN
 a	DT
 conversation	NN
-starter	NN
+starter	JJ
 .	.
 
 Mr.	NNP
@@ -18036,7 +18036,7 @@ said	VBD
 ,	,
 "	''
 We	PRP
-direct	JJ
+direct	VB
 an	DT
 appeal	NN
 at	IN
@@ -19341,8 +19341,8 @@ This	DT
 is	VBZ
 a	DT
 largely	RB
-Sunni	NNP
-Arab	NNP
+Sunni	JJ
+Arab	JJ
 clan	NN
 ,	,
 and	CC
@@ -19607,7 +19607,7 @@ only	RB
 going	VBG
 to	TO
 get	VB
-better	JJR
+better	RBR
 this	DT
 way	NN
 .	.
@@ -19620,7 +19620,7 @@ crime	NN
 against	IN
 humanity	NN
 ,	,
-prosecute	JJ
+prosecute	VB
 the	DT
 person	NN
 .	.
@@ -19648,7 +19648,7 @@ Iraqis	NNS
 Al	NNP
 -	HYPH
 Sharq	NNP
-al	JJ
+al	NN
 -	HYPH
 Awsat	NN
 reports	NNS
@@ -20325,7 +20325,7 @@ http://digon_va.tripod.com/Chernobyl.htm	NN
 
 http://www.oneworld.org/index_oc/issue196/byckau.html	JJ
 
-http://www.collectinghistory.net/chernobyl/	NNP
+http://www.collectinghistory.net/chernobyl/	TO
 
 http://www.ukrainianweb.com/chernobyl_ukraine.htm	NN
 
@@ -20335,7 +20335,7 @@ http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	NN
 
 http://www.infoukes.com/history/chornobyl/gregorovich/index.html	JJ
 
-http://www.un.org/ha/chernobyl/	NNP
+http://www.un.org/ha/chernobyl/	TO
 
 http://www.tecsoc.org/pubs/history/2002/apr26.htm	NN
 
@@ -20343,7 +20343,7 @@ http://www.chernobyl.org.uk/page2.htm	NN
 
 http://www.time.com/time/daily/chernobyl/860901.accident.html	JJ
 
-http://www.infoukes.com/history/chornobyl/elg/	NNP
+http://www.infoukes.com/history/chornobyl/elg/	TO
 
 http://www.world-nuclear.org/info/chernobyl/inf07.htm	NN
 
@@ -20937,9 +20937,9 @@ with	IN
 the	DT
 Mozilla	NNP
 project	NN
-and	CC
+and	NNP
 community	NN
-:-)	NNS
+:-)	HYPH
 
 Posted	VBN
 by	IN
